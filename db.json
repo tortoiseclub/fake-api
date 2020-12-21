@@ -7,5 +7,203 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "scheme_detail": {
+    "id": "tanishq_1",
+    "coverPhotoUrl": "https://s3-alpha-sig.figma.com/img/3985/d080/52fe92d25e6bf9a804212a4c0e443d39?Expires=1609718400&Signature=Ilp0Miy9BtlSrEBOu0uwEu2VRTilAreCdieE2SlLA9LQfSttIwn4Uq29InUjCmxsLX37RUjUYQDPdyGLQV-AE1e-25U8wkoI0GfV57R20jGYb~QeB9YFwdUxm2B9Gv0ORKkjh4AKJ4KkfWm60SCcRrT8jAVWkq6fXX5tXz4DGYKC1JVzvJQR1OISNcxLKUuSW2HIq8nVF8t-0TPvg8TkPO-4Wr-37NEmhHbIRgx5Ii7bsbRqkmSsxOctrpAatOpA7K-sFkgpmnptFg3NCe8Pjj3PZwPbs9SfCqvgsxzJOWznC5UbfmtaC3~f5ejhVOkrSra-Iex3eTojzP5JzYzr~w__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+    "logoUrl": "https://firebasestorage.googleapis.com/v0/b/tortoise-89870.appspot.com/o/tanishq_logo.png?alt=media&token=b09b8d97-3b0c-446d-9b91-578fa09888be",
+    "name": "Tanishq Logo",
+    "merchantName": "Tanishq",
+    "caption": "Start a fixed installment for 10 months, get a discount of 75% of installment amount",
+    "whatsthis": {
+      "title": "What is this?",
+      "description": "This is a monthly planned purchase plan offered by Tanishq through Tortoise. Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. Payments have to be made monthly, on the same date as the first installment."
+    },
+    "availableTenures": [
+      {
+        "duration": 3,
+        "caption": "Discount [CAPTION] installment amount",
+        "downpayment": 0,
+        "bonus": 30,
+        "redeemOption": {
+          "from": 0,
+          "till": 60
+        }
+      },
+      {
+        "duration": 6,
+        "caption": "string",
+        "downpayment": 0,
+        "bonus": 50,
+        "redeemOption": {
+          "from": 0,
+          "till": 90
+        }
+      },
+      
+    ],
+    "defaultInstAmts": [
+      10000,
+      20000,
+      30000,
+      40000,
+      50000,
+      60000,
+      70000,
+      80000,
+      90000,
+      
+    ],
+    "customInstAmt": {
+      "allowCustomAmt": true,
+      "minAmt": 5000,
+      "maxAmt": 100000,
+      "multiplier": 5000
+    },
+    "totalUsers": 6969,
+    "userReviews": [
+      {
+        "timestamp": "2020-12-21T07:53:56.994Z",
+        "username": "amishgarg",
+        "userPhoto": "https://s3-alpha-sig.figma.com/img/ae85/9432/622d558d31563c9ab82fb74938a19ec1?Expires=1609718400&Signature=CND2oJfTodDW1zP66RjMoyFgWatBvSzUYLgZm5WJJ7pBLD9wVG48NbGFcy9rRUSDLuKCiknXURN-RrYO6jN5eRBrodDWfSylx8D6NHjVI3CrRD61W7PCCTM7RMSpK87Y~I-uPSqU7er23m6XXlSU4hG68fwL0uteNFR70ydmYn4purWGAAXKBdp8PIRZhIMCNWhLLrHMrVEeF-pXWQ6OnGLFmiKuDsaaF6TEjF2lIeY7zHG~GoTvG1O-cQKJK0AfSuxQRk2HqfngqKweCsb3XzlrUBGYjzS-jhvDFxpH38R-xHn-xk~iFLAcUoH9k4HMyw1gSmERG0G2jkQZBIr5iA__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA",
+        "review": "This helped us realize our dream of buying diamond jewelery without feeling any heat, anxiety about pooling of money for such a big ticket purchase. "
+      }
+    ],
+    "benefits": [
+      {
+        "sno": 0,
+        "description": "No cancellation charges",
+        "iconURL": ""
+      },
+      {
+        "sno": 1,
+        "description": "Club with any other existing offer",
+        "iconURL": ""
+      },
+      {
+        "sno": 2,
+        "description": "Applicable on any Tanishq product, at any store across India",
+        "iconURL": ""
+      }
+    ],
+    "terms": {
+      "caption": "Redeemable 366 to 400 days from the first installment date, by buying jewellery from any Tanishq store in the country.",
+      "noTermsOnDisplay": 3,
+      "items": [
+        {
+          "sno": 0,
+          "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period."
+        },
+        {
+          "sno": 1,
+          "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period."
+        },
+        {
+          "sno": 2,
+          "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period."
+        },
+        {
+          "sno": 3,
+          "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period."
+        },
+        {
+          "sno": 4,
+          "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period."
+        },
+        
+      ]
+    },
+    "portfolioImages": [
+      {
+        "sno": 0,
+        "imageURL": "https://s3-alpha-sig.figma.com/img/da7e/fd19/8918b7750d0e6a4e7df78e2d2f435a0f?Expires=1609718400&Signature=MKJr~EbA2RrTqwa8mW7liPP79OJoY00t6mbA5Nprtgrq9jvSO7Q23q4gJqWrHTmNWHhuCgnEMVyIY5PO6wH97clmw2mHORbOjLcJXMBdvwikxqpL-DT~qpfTL016EEeDBWMKxY~SuKwzf0DTgvKy5T14Un6sZOjdtOZzQenEAbOtksRPxIFcnaxC6zd4OpNaSLRVlUeglAHDRoaYO5Txge-XgZGtZ7-bvXxXMXLmyJa5MRaFtYy6ulVa9KM36z7iMLJl3zaODpv~sLil72JY6~0lVfqFLIJ21r7Xd2UOyKsWiTCrwSSV0nHTObI1dQhc8rJFNY8B5PqIMOxKrBrDMg__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+      },
+      {
+        "sno": 1,
+        "imageURL": "https://s3-alpha-sig.figma.com/img/3c59/0e78/701633e7a847456a6766ee7d8a83c936?Expires=1609718400&Signature=VEVWaIWolx4ZmRtpIFjO1n6FzHVm3ZljM4t39-k-25HmEcPqK-niXxXzPnc7eF5QLAdRGHZoP-2shqBleiwGd7pE4wVALnD1e2ECIJy-TqW0GAzhYJ6LOOq3TD~9dlpeZXniOYn6RmIYTFHNJ8z~5o91clYUc~HizM69t~xGY9E4dR2u2N37NQnymy3bp2DeRuLSHWEfeErCvc2NH-Wb2osvBI-n-BXIP-qz2Zw8r2L2-SNaPiZ6MjLPeJw7lnIhA9QBuToiCsdYibKia7SUxbuD16IiqqWNS1s11lZABsxwAOJOvYXtkr-g8NXtvbzDqLH30jxTcQpmX6U8z3yvWw__&Key-Pair-Id=APKAINTVSUGEWH5XD5UA"
+      },
+      
+    ],
+    "process": {
+      "caption": "Getting started is simpler than you think it would be",
+      "steps": [
+        {
+          "sno": 0,
+          "description": "Complete your application, for which we’ll need you Aadhaar Number, Phone Number, Address and Email ID. Why we need this",
+          "explanation": {
+            "text": "Why do we need this?",
+            "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. \n \n Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. "
+          }
+        },
+        {
+          "sno": 1,
+          "description": "Complete your application, for which we’ll need you Aadhaar Number, Phone Number, Address and Email ID. Why we need this",
+          "explanation": {
+            "text": "Why do we need this?",
+            "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. \n \n Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. "
+          }
+        },
+        {
+          "sno": 2,
+          "description": "Complete your application, for which we’ll need you Aadhaar Number, Phone Number, Address and Email ID. Why we need this",
+          "explanation": {
+            "text": "Why do we need this?",
+            "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. \n \n Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. "
+          }
+        },
+        {
+          "sno": 3,
+          "description": "Complete your application, for which we’ll need you Aadhaar Number, Phone Number, Address and Email ID. Why we need this",
+          "explanation": {
+            "text": "Why do we need this?",
+            "description": "Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. \n \n Payments have to be made monthly, on the same date as the first installment, with a 7 day grace period. "
+          }
+        }
+      ]
+    },
+    "schemeVerification": {
+      "verified": true,
+      "title": "This is a Verified Tanishq Plan",
+      "caption": "This means that this plan is officially supported and endorsed by Tanishq Jewellers and is not through any third party platform. ",
+      "linkText": "View on Tanishq’s Website",
+      "url": "https://www.google.com",
+      "icon": ""
+    },
+    "FAQs": {
+      "noFaqsOnDisplay": 3,
+      "items": [
+        {
+          "sno": 0,
+          "question": "What are the available payment options?",
+          "answer": "We currently offer only UPI based payments. You can pay via Google Pay, PayTM, Stripe, or any other UPI based payment app of your choice."
+        },
+        {
+          "sno": 1,
+          "question": "Can I change my instalment amount after enrollment?",
+          "answer": "We currently offer only UPI based payments. You can pay via Google Pay, PayTM, Stripe, or any other UPI based payment app of your choice."
+        },
+        {
+          "sno": 3,
+          "question": "FAQ number 3",
+          "answer": "We currently offer only UPI based payments. You can pay via Google Pay, PayTM, Stripe, or any other UPI based payment app of your choice."
+        },
+        {
+          "sno": 4,
+          "question": "What are the available payment options?",
+          "answer": "We currently offer only UPI based payments. You can pay via Google Pay, PayTM, Stripe, or any other UPI based payment app of your choice."
+        },
+        {
+          "sno": 5,
+          "question": "Can I change my instalment amount after enrollment?",
+          "answer": "We currently offer only UPI based payments. You can pay via Google Pay, PayTM, Stripe, or any other UPI based payment app of your choice."
+        },
+        {
+          "sno": 6,
+          "question": "FAQ number 3",
+          "answer": "We currently offer only UPI based payments. You can pay via Google Pay, PayTM, Stripe, or any other UPI based payment app of your choice."
+        },
+        
+      ]
+    }
   }
 }
